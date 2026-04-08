@@ -1,0 +1,53 @@
+body {
+background-color: wheat;
+font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin-left: 25%;
+
+}
+
+.titulo h2  {
+    font-size: 45px;
+    color: darkolivegreen;
+    background-color:burlywood;
+    border: 3px solid brown;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 50%;
+    
+}
+
+.texto {
+    width: 60%;
+    text-align: left;
+    margin-left: 15%;
+}
+
+.texto h2, p {
+    color: orangered;
+    padding: 30px;
+    background-color:burlywood;
+    border: 3px solid brown;
+    width: 50%;
+}
+
+.imagem {
+    text-align: right;
+    width: 50%;
+    margin-left: 35%;
+    margin-right: 15%;
+    margin-top: -25%;
+}
+
+.imagem img {
+    background-color: burlywood;
+    padding: 30px;
+    border: 3px solid brown;
+    width: 50%;
+
+}
